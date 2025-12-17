@@ -1,0 +1,1 @@
+# Redis AOF (Append Only File) Persistence
