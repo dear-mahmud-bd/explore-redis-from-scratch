@@ -1,0 +1,6 @@
+1766557518 SET mylist deque(['a', 'mahmud'])
+1766557518 SET myhash {'field1': 'value1', 'field3': 'value3'}
+1766557518 SET set1 {'a', 'b', 'c'}
+1766557518 SET set2 {'d', 'b', 'c'}
+1766557518 SET set3 {'d', 'c', 'e'}
+1766557518 SET res {'b', 'c'}
